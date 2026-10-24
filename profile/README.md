@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="assets/mark.svg" alt="Triage Agent" width="96">
+<img src="assets/mark.svg" alt="Triage Agent" width="150">
 
 # Triage Agent
 
