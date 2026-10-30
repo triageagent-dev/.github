@@ -4,8 +4,6 @@
 
 <img src="assets/logo.svg" alt="Triage Agent" width="360">
 
-# Triage Agent
-
 ### Self-Aware Infrastructure
 
 Early detection and prevention of outages, cost anomalies and security breaches.
