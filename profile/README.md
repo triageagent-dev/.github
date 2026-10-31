@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="assets/logo.svg" alt="Triage Agent" width="360">
+<img src="https://raw.githubusercontent.com/triageagent-dev/.github/main/profile/assets/logo.svg" alt="Triage Agent" width="360">
 
 ### Self-Aware Infrastructure
 
